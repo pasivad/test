@@ -1,7 +1,7 @@
 print("Choose the number of Fibonacci's number")
 n = input("n = ")
 a1 = 1
-a2 = 1
+a2 = 10
 i = 0
 counter = 60
 if int(n) > 60:
